@@ -1,5 +1,4 @@
 # KataStringCalculator
-A kata that I made once
 
 This Kata was from https://kata-log.rocks/
 
